@@ -1,0 +1,6 @@
+projectKey=fr.firstMavenProject:firstMavenProject
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=fr.firstMavenProject%3AfirstMavenProject
+ceTaskId=AW0bN4B47xDiQ5F_eUKh
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW0bN4B47xDiQ5F_eUKh
